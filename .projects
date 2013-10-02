@@ -80,3 +80,10 @@ function rtsmoking_env()
 source ~/.env/.rtsmoking_environment
 
 }
+
+function fab_env()
+{
+
+source ~/.env/.fab_environment
+
+}
